@@ -1,0 +1,25 @@
+
+L
+java:S1121¢".Extract the assignment out of this expression.(‡ñ¶8 ³Åû.
+u
+java:S3776­"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(šÈŞëøÿÿÿÿ8æ¨ªúú.
+v
+java:S1450"YRemove the "tokenToAdd" field and declare it as a local variable in the relevant methods.(ÚòËî8¿Ş±úú.
+
+java:S11301"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(”¤“üıÿÿÿÿ8šãÑüú.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(Ù…Ïƒ8æ¨ªúú.
+?
+java:S1116Ş"Remove this empty statement.(ôŸìúÿÿÿÿ8æ¨ªúú.
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(”¤“üıÿÿÿÿ8æ¨ªúú.
+?
+java:S1116¾"Remove this empty statement.(ôŸìúÿÿÿÿ8æ¨ªúú.
+V	java:S106ï"9Replace this use of System.out or System.err by a logger.(ü¿¹8æ¨ªúú.
+G
+java:S1068"*Remove this unused "inputX" private field.(ÆÌáØ8¿Ş±úú.
+G
+java:S1068"*Remove this unused "inputY" private field.(ìõÁø8¿Ş±úú.
+V	java:S106ı"9Replace this use of System.out or System.err by a logger.(ûÕŒå8æ¨ªúú.
+L
+java:S1121“".Extract the assignment out of this expression.(‡ñ¶8õ¹Àû.
+u
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(óÎàÆÿÿÿÿÿ8æ¨ªúú.

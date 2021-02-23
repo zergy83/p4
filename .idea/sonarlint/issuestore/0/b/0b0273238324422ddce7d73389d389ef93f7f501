@@ -1,0 +1,6 @@
+
+n
+java:S1450"TRemove the "yAxis" field and declare it as a local variable in the relevant methods.(ÿˆ†%8’²Ìüú.
+C
+java:S1068")Remove this unused "yAxis" private field.(ÿˆ†%8¥ˆœüú.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ðÈœž8µû®ƒû.

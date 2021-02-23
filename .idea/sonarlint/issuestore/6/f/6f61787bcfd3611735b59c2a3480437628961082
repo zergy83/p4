@@ -1,0 +1,28 @@
+
+g	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(”¤“üıÿÿÿÿ8ÄÌƒ„û.
+
+java:S11301"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(”¤“üıÿÿÿÿ8ÄÌƒ„û.
+?
+java:S1116À"Remove this empty statement.(ôŸìúÿÿÿÿ8ÄÌƒ„û.
+v
+java:S1450"YRemove the "tokenToAdd" field and declare it as a local variable in the relevant methods.(ÚòËî8ÄÌƒ„û.
+V	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ûÕŒå8ÄÌƒ„û.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Ù…Ïƒ8ÄÌƒ„û.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯úÇ8ÄÌƒ„û.
+G
+java:S1068"*Remove this unused "inputX" private field.(ÆÌáØ8ÄÌƒ„û.
+>
+java:S1116?"Remove this empty statement.(ôŸìúÿÿÿÿ8ÄÌƒ„û.
+u
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(šÈŞëøÿÿÿÿ8ÄÌƒ„û.
+?
+java:S1116à"Remove this empty statement.(ôŸìúÿÿÿÿ8ÄÌƒ„û.
+G
+java:S1068"*Remove this unused "inputY" private field.(ìõÁø8ÄÌƒ„û.
+L
+java:S1121¤".Extract the assignment out of this expression.(‡ñ¶8ÄÌƒ„û.
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ü¿¹8ÄÌƒ„û.
+L
+java:S1121•".Extract the assignment out of this expression.(‡ñ¶8ÄÌƒ„û.
+u
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(óÎàÆÿÿÿÿÿ8ÄÌƒ„û.
